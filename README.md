@@ -118,7 +118,9 @@ Projecto académico desenvolvido por:
 - **[Isaías Sebastião](https://github.com/isaiassebastiao)**
 
 **Instituição:** Instituto Politécnico Dom Damião Franklin.
+
 **Curso:** Técnico de Informática.
+
 **Ano lectivo:** 2025/2026.
 
 ---
