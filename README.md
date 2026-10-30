@@ -117,10 +117,9 @@ Projecto académico desenvolvido por:
 - **[Denil Dinis](https://github.com/denildinis)**
 - **[Isaías Sebastião](https://github.com/isaiassebastiao)**
 
-**Instituição:** Instituto Politécnico Dom Damião Franklin.
-**Curso:** Técnico de Informática.
+**Instituição:** Instituto Politécnico Dom Damião Franklin.<br>
+**Curso:** Técnico de Informática.<br>
 **Ano lectivo:** 2025/2026.
-
 ---
 
 ## 📬 Contacto
