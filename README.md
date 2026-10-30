@@ -121,6 +121,7 @@ Projecto académico desenvolvido por:
 
 **Curso:** Técnico de Informática.
 
+**Curso:** Técnico de Informática.
 **Ano lectivo:** 2025/2026.
 
 ---
