@@ -112,10 +112,10 @@ Depois de configurares o ambiente e a base de dados:
 
 Projecto académico desenvolvido por:
 
-- Aguinaldo Konzo(https://github.com/AguinaldoKonzo38).
-- Benedito Kapolo(https://github.com/Beneditogamboa0).
-- Denil Dinis(https://github.com/denildinis).
-- Isaías Sebastião(https://github.com/isaiassebastiao).
+- **[Aguinaldo Konzo](https://github.com/AguinaldoKonzo38)**
+- **[Benedito Kapolo](https://github.com/Beneditogamboa0)**
+- **[Denil Dinis](https://github.com/denildinis)**
+- **[Isaías Sebastião](https://github.com/isaiassebastiao)**
 
 **Instituição:** Instituto Politécnico Dom Damião Franklin.
 **Curso:** Técnico de Informática.
