@@ -128,7 +128,7 @@ Projecto académico desenvolvido por:
 Para conversar sobre o projecto ou possíveis colaborações:
 
 - 📧 **Email:** [denildinis1@gmail.com](mailto:denildinis1@gmail.com)
-- 🔗 **LinkedIn:** [Denil Dinis](https://www.linkedin.com/in/denil-dinis-b74937352/)
+- 🔗 **LinkedIn:** [Denil Dinis](https://www.linkedin.com/in/denildinis/)
 
 ---
 
