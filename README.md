@@ -38,7 +38,7 @@ A proposta visa facilitar o trabalho de supervisão e tornar mais acessível a c
 
 Para executar o projecto localmente, é necessário um ambiente com **PHP, MySQL e um servidor web**.
 
-### ✔ 1. Git — opcional
+### ✔ 1. Git - opcional
 
 Necessário para clonar o repositório. Também podes descarregar o projecto em formato ZIP.
 
